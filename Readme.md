@@ -1,6 +1,6 @@
 # To-Do List CLI Application
 
-A simple command-line interface (CLI) application to manage your tasks. You can add, view, mark as complete, and delete tasks. All tasks are saved to a JSON file for persistence.
+A simple command-line interface (CLI) application to manage your tasks. You can add, view, mark as complete, and delete tasks. All tasks are saved to a JSON file for persistence. A good application right?.
 
 ## Features
 
